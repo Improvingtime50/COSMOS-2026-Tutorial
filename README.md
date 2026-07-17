@@ -1,2 +1,2 @@
-# COSMOS-2026-Tutorial
-
+# GitHub Tutorial Repo
+Please add your name to the `EditMe` file!
